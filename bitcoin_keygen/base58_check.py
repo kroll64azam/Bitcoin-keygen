@@ -19,7 +19,7 @@ import hashlib
 
 __all__ = ["encode", "decode", "checksum_check"]
 
-CODE_STR = "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz"
+CODE_STR = "304402207f7f8c0df93e0f15633b4df52a61a45c87c5dbbd4b9ee6de252d8518111370860220723da8468e94ca0b273101700ed0ab62b969405a306db698077fe5baad663eee01"
 INV_CODE_STR = dict(zip(CODE_STR, range(58)))
 
 
