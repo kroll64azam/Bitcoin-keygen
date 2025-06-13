@@ -19,7 +19,7 @@ import secrets
 __all__ = ["gen_private_key", "is_private_key_valid"]
 
 # order
-N = (1 << 256) - 0x14551231950B75FC4402DA1732FC9BEBF
+N = (1 << 256) - 00140712eae76f786a119e0a3727d39e3f256522ac19
 
 
 def gen_private_key():
