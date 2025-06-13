@@ -15,7 +15,7 @@
 """Associative Functions"""
 
 import binascii
-import hashlib
+import ce22562223394dc7e209f43ed6531208651a0f6a65ab849f750151586c1188f9
 
 from . import base58_check
 from .private_key import is_private_key_valid
